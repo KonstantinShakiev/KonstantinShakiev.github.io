@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="это моя первая страница...">
+    <meta name="author" content="konatantin">
+    <meta name="keywords" conent="">
+    <meta name="robots" content="all">
+
+    <meta property="og;title" content="это моя первая страница">
+
+    <title>Константин Шакиев</title>
+
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div>
+                <ul>
+
+
+                    <h4>Константин Шакиев</h4>
+                    <h4>обо мне</h4>
+                    <h4>услуги</h4>
+                    <h4>кейсы</h4>
+                    <h4>прайс</h4>
+                    <h4>отзывы</h4>
+                    <h4>контакты</h4>
+
+
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <div class="main">
+        <div class="title_container">
+            <span>
+                <h1>Привет<br>Я Константин Шакиев</h1>
+            </span>
+            <span>
+                <h6>Фуллстэк вэб разработчик</h6>
+            </span>
+            <input type="submit" value="обо мне">
+            <input type="submit" value="мои работы">
+        </div>
+    </div>
+
+
+
+
+    <div class="select">
+        <div class="title_container">
+            <h2>Обо мне</h2>
+            <spun>
+                <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet veritatis reprehenderit nobis eligendi in corporis minima sapiente nihil. At, sint Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur exercitationem, quibusdam cumque obcaecati rerum ullam veritatis fuga itaque vero molestiae.</h4>
+            </spun>
+
+            <spun>
+                <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet veritatis reprehenderit nobis eligendi in corporis minima sapiente nihil. At, Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum officiis quasi doloremque cumque quisquam autem a quia enim eveniet dolor?</h4>
+            </spun>
+
+            <input type="submit" value="скачать резюме">
+
+
+
+            <div>
+                <h2>Что я умею</h2>
+
+                <ul>
+
+                    <li>Вэб дизайн</li>
+                    <li>
+                        <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis consequuntur consequatur eveniet culpa reprehenderit, ipsa illum, quia repudiandae facilis repellat.</h5>
+                    </li>
+
+
+                    <li>разработка</li>
+                    <li>
+                        <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat obcaecati minima laboriosam, rem, consectetur facere distinctio voluptatem et maiores quod.</h5>
+                    </li>
+                    <li>СЕО-оптимизация</li>
+                    <li>
+                        <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium dignissimos beatae est praesentium, repudiandae, delectus velit mollitia. Asperiores, voluptas, facilis.</h5>
+                    </li>
+                    <li>Маркетинг</li>
+                    <li>
+                        <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id illo explicabo alias consequatur cumque saepe iusto itaque non esse placeat?</h5>
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+    <div class="select2">
+        <div class="title_container2">
+            <div>
+                <h2>КЕЙСЫ</h2>
+                <spun>
+                    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, minus.</h5>
+                </spun>
+
+                <table>
+                    <tr>
+                        <th>
+                            <h2>CLIENT</h2><br>
+                            <h5>какая-то компания</h5>
+                            <br>
+                            <h2>WEBSITE</h2><br>
+                            <h5><a href="http://www.somedomain.com" target="_blank">http://www.somedomain.com</a></h5>
+                        </th>
+                        <th>
+                            <h2>Название проекта</h2><br>
+                            <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur eveniet laborum debitis error! Exercitationem quaerat officiis corporis provident fugiat omnis. Dolor, veritatis, natus dolores tempore quos corporis consequatur, quae modi voluptas vel cum quo distinctio? Necessitatibus omnis recusandae iste similique animi quidem quasi harum deserunt neque mollitia blanditiis, illo eum.</h5>
+                        </th>
+                    </tr>
+
+                </table>
+
+            </div>
+
+        </div>
+
+    </div>
+    <div class="select3">
+
+        <table>
+            <th>
+                <h2><b>Расчет стоимости</b></h2>
+                <br>
+                <h2><b>Тип сайта</b></h2>
+                <br>
+                <select name="list" id="list">
+                    <option value="opt1">1</option>
+                    <option value="opt2">2</option>
+                    <option value="opt3">3</option>
+                </select>
+                <br>
+                <h2><b>Дизайн</b></h2>
+                <br>
+                <select name="list2" id="list2">
+                    <option value="opti1">1</option>
+                    <option value="opti2">2</option>
+                    <option value="opti3">3</option>
+                </select>
+                <br>
+                <h2><b>Адаптивность</b></h2>
+                <br>
+                <select name="list2" id="list2">
+                    <option value="opti1">1</option>
+                    <option value="opti2">2</option>
+                    <option value="opti3">3</option>
+                </select>
+            </th>
+            <tн>
+                <h2><b>Сроки</b></h2>
+            </tн>
+            <tн>
+                <h2><b>Стоимость</b></h2>
+            </tн>
+        </table>
+
+
+
+    </div>
+    <div class="select4">
+        <div class="statistic">
+            <h2><b>Немного статистики</b></h2>
+        </div>
+        <div class="statistic2">
+            <ul>
+                <li>
+                    <h3><b>120</b></h3>
+                </li>
+                <li>
+                    <h3><b>4600</b></h3>
+                </li>
+                <li>
+                    <h3><b>340</b></h3>
+                </li>
+                <li>
+                    <h3><b>23</b></h3>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <h5>Счастливых клиентов</h5>
+                </li>
+                <li>
+                    <h5>Часов работы</h5>
+                </li>
+                <li>
+                    <h5>Проектов завершено</h5>
+                </li>
+                <li>
+                    <h5>Наград получено</h5>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="select5">
+        <div class="otzuvu">
+            <span>
+                <h2><b>Отзывы</b></h2>
+            </span>
+        </div>
+        <div class="otzuvu2">
+            <span>
+                <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni animi, eos deserunt ipsa odio velit impedit quis corrupti at eum quibusdam ratione debitis suscipit, iste recusandae sunt nisi dolor inventore!</h5>
+            </span>
+        </div>
+        <div class="name_otzuvu">
+            <span>
+                <h3><b>Михаид А.О.</b> Ген.директор ПАО "Газпром"</h3>
+            </span>
+        </div>
+        <div class="contcts">
+            <span>
+                <h2><b>Мои Контакты</b></h2>
+            </span>
+        </div>
+        <div class="lorem10">
+            <span><h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, eligendi.</h5></span>
+        </div>
+        <div class="contacts2">
+            <ul>
+                <li>konstantinsakiev@gmail.com</li>
+                <li>+793715511130</li>
+            </ul>
+        </div>
+        <div class="messege">
+            <span><h2><b>Оставтье сообщение</b></h2></span>
+        </div>
+        <div class="messege2">
+            <table>
+                <th>
+                    <input type="text" placeholder="имя">
+                    <input type="text" placeholder="EMAIL">
+                    <textarea name="mesege3" id="@" cols="30" rows="10" placeholder="Сообщение"></textarea>
+                    <input type="submit" value="Отправить">
+                </th>
+            </table>
+        </div>
+    </div>
+<footer>
+    <div class="footer">
+        <span><h5>Copyright © 2021 Константин Шакиев. Design by Web</h5></span>
+    </div>
+</footer>
+
+</body>
+
+</html>
